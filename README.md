@@ -11,7 +11,8 @@
 - 提供I2C接口，便于拓展其他接口
 
 ### View
-
+![view1](https://raw.githubusercontent.com/Ncerzzk/PCB_Quadrotor/master/view1.jpg)
+![view2](https://raw.githubusercontent.com/Ncerzzk/PCB_Quadrotor/master/view2.jpg)
 
 
 
